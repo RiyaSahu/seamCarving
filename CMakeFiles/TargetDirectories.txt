@@ -1,0 +1,3 @@
+/home/sriya/test/CMakeFiles/DisplayImage.dir
+/home/sriya/test/CMakeFiles/edit_cache.dir
+/home/sriya/test/CMakeFiles/rebuild_cache.dir
