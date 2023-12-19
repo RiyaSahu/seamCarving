@@ -8,7 +8,7 @@ such as image energy calculation, lowest energy seam identification and lowest e
 ### Library and language used
 ---
 Used opencv library in c++
-- For installation on ubuntu one can follow below link:
+- For installation on ubuntu one can follow below link:  
   https://www.geeksforgeeks.org/how-to-install-opencv-in-c-on-linux/
   
 ### Reference
